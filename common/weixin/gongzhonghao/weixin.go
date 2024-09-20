@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/github.com/xianlinyang/frame/common/log"
-	"github.com/github.com/xianlinyang/frame/common/utils"
-	"github.com/github.com/xianlinyang/frame/common/weixin/gongzhonghao/handle"
-	wxmodel "github.com/github.com/xianlinyang/frame/common/weixin/model"
-	"github.com/github.com/xianlinyang/frame/common/weixin/pay"
+	"github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/utils"
+	"github.com/xianlinyang/frame/common/weixin/gongzhonghao/handle"
+	wxmodel "github.com/xianlinyang/frame/common/weixin/model"
+	"github.com/xianlinyang/frame/common/weixin/pay"
 )
 
 // WeixinCacheInterface 微信緩存接口

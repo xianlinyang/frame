@@ -2,8 +2,8 @@ package handle
 
 import (
 	"encoding/xml"
-	"github.com/github.com/xianlinyang/frame/common/log"
-	"github.com/github.com/xianlinyang/frame/common/weixin/model"
+	"github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/weixin/model"
 )
 
 //处理关注和取消关注事件

@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/log"
 	"strings"
 )
 

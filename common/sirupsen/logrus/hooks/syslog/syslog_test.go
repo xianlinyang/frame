@@ -7,7 +7,7 @@ import (
 	"log/syslog"
 	"testing"
 
-	"github.com/github.com/xianlinyang/frame/common/sirupsen/logrus"
+	"github.com/xianlinyang/frame/common/sirupsen/logrus"
 )
 
 func TestLocalhostAddAndPrint(t *testing.T) {

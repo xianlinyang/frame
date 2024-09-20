@@ -1,7 +1,7 @@
 package xiaochengxu
 
 import (
-	"github.com/github.com/xianlinyang/frame/common/weixin/model"
+	"github.com/xianlinyang/frame/common/weixin/model"
 )
 
 // WeiXinMiniSession 微信主结构

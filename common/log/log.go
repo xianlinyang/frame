@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/github.com/xianlinyang/frame/common/sirupsen/logrus"
+	"github.com/xianlinyang/frame/common/sirupsen/logrus"
 )
 
 // Level describes the log severity level.

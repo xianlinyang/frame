@@ -7,8 +7,8 @@ import (
 
 	"encoding/base64"
 	"encoding/json"
-	"github.com/github.com/xianlinyang/frame/common/aes"
-	"github.com/github.com/xianlinyang/frame/common/rand"
+	"github.com/xianlinyang/frame/common/aes"
+	"github.com/xianlinyang/frame/common/rand"
 
 	jwt "github.com/dgrijalva/jwt-go"
 )

@@ -1,7 +1,7 @@
 package dcache
 
 import (
-	"github.com/github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/log"
 )
 
 type Dcache interface {

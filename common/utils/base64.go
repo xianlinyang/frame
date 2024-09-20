@@ -2,7 +2,7 @@ package utils
 
 import (
 	"encoding/base64"
-	"github.com/github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/log"
 	"strconv"
 )
 

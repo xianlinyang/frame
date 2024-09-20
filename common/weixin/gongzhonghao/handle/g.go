@@ -2,8 +2,8 @@ package handle
 
 import (
 	"encoding/xml"
-	"github.com/github.com/xianlinyang/frame/common/log"
-	wxmodel "github.com/github.com/xianlinyang/frame/common/weixin/model"
+	"github.com/xianlinyang/frame/common/log"
+	wxmodel "github.com/xianlinyang/frame/common/weixin/model"
 )
 
 type WeixinMsgHandleInterface interface {

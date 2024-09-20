@@ -2,7 +2,7 @@ package common
 
 import (
 	"context"
-	"github.com/github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/log"
 	"strconv"
 
 	"github.com/gin-gonic/gin"

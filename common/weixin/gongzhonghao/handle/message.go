@@ -2,8 +2,8 @@ package handle
 
 import (
 	"encoding/xml"
-	wxlog "github.com/github.com/xianlinyang/frame/common/log"
-	wxmodel "github.com/github.com/xianlinyang/frame/common/weixin/model"
+	wxlog "github.com/xianlinyang/frame/common/log"
+	wxmodel "github.com/xianlinyang/frame/common/weixin/model"
 )
 
 //处理接收普通消息

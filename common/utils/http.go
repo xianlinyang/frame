@@ -6,7 +6,7 @@ import (
 	"crypto/x509"
 	"errors"
 	"fmt"
-	"github.com/github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/log"
 	"io"
 	"io/ioutil"
 	"mime/multipart"

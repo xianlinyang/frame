@@ -11,11 +11,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/github.com/xianlinyang/frame/common/log"
-	"github.com/github.com/xianlinyang/frame/common/utils"
-	wxmodel "github.com/github.com/xianlinyang/frame/common/weixin/model"
-	"github.com/github.com/xianlinyang/frame/common/weixin/pay"
-	minimodel "github.com/github.com/xianlinyang/frame/common/weixin/xiaochengxu/model"
+	"github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/utils"
+	wxmodel "github.com/xianlinyang/frame/common/weixin/model"
+	"github.com/xianlinyang/frame/common/weixin/pay"
+	minimodel "github.com/xianlinyang/frame/common/weixin/xiaochengxu/model"
 )
 
 type MiniTpl struct {

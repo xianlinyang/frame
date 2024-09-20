@@ -1,6 +1,6 @@
 package main
 
-import "github.com/github.com/xianlinyang/frame/common/log"
+import "github.com/xianlinyang/frame/common/log"
 
 /*
 *测试Log函数

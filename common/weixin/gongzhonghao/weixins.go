@@ -1,10 +1,10 @@
 package gongzhonghao
 
 import (
-	"github.com/github.com/xianlinyang/frame/common/log"
-	"github.com/github.com/xianlinyang/frame/common/weixin/gongzhonghao/handle"
-	"github.com/github.com/xianlinyang/frame/common/weixin/model"
-	"github.com/github.com/xianlinyang/frame/common/weixin/pay"
+	"github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/weixin/gongzhonghao/handle"
+	"github.com/xianlinyang/frame/common/weixin/model"
+	"github.com/xianlinyang/frame/common/weixin/pay"
 )
 
 // WeiXinSessions 微信主结构

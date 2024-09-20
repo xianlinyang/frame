@@ -2,8 +2,8 @@ package queue
 
 import (
 	"fmt"
-	//"github.com/github.com/xianlinyang/frame/common/log"
-	"github.com/github.com/xianlinyang/frame/common/log"
+	//"github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/log"
 	"sync"
 
 	"github.com/streadway/amqp"

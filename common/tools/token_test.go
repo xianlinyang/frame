@@ -1,7 +1,7 @@
 package tools_test
 
 import (
-	"github.com/github.com/xianlinyang/frame/common/tools"
+	"github.com/xianlinyang/frame/common/tools"
 	"testing"
 )
 

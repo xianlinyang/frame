@@ -1,8 +1,8 @@
 package handle
 
 import (
-	"github.com/github.com/xianlinyang/frame/common/log"
-	"github.com/github.com/xianlinyang/frame/common/weixin/model"
+	"github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/weixin/model"
 )
 
 type WeixinReplyMsgHandleInterfce interface {

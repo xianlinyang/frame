@@ -4,9 +4,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/github.com/xianlinyang/frame/common/log"
-	"github.com/github.com/xianlinyang/frame/common/rand"
 	nsq "github.com/nsqio/go-nsq"
+	"github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/rand"
 )
 
 //Logger 日志

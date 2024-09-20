@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/github.com/xianlinyang/frame/common/log"
+	"github.com/xianlinyang/frame/common/log"
 )
 
 const (
