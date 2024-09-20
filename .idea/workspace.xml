@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21937883-85b2-4d4c-a208-0c4178d92737" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/aes/aes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/aes/aes_ecb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/aes/padding.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/aliyun/face.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/aliyun/yuying.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/conf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/conf/conf.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/conf/formal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/datakeeper/datakeeper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/datakeeper/datakeeper_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/datakeeper/options.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/dcache/dcache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/dcache/mem.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/dcache/redis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/hotspot/hotspot.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/hotspot/mem.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/libtime/time.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/limiter/counter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/limiter/limiter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/log_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/logs/201912050000log.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/logs/log.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/logtest/logtest.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/logtest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/rus/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/log/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/nsq/nsq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/queue/queue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/rand/rand.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/recover/recover.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/alt_exit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/alt_exit_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/entry.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/entry_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/example_basic_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/example_custom_caller_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/example_default_field_value_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/example_global_hook_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/example_hook_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/exported.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/formatter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/formatter_bench_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/go.mod.cp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/go.sum.cp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/hook_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/hooks.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/hooks/syslog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/hooks/syslog/syslog.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/hooks/syslog/syslog_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/hooks/test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/hooks/test/test_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/json_formatter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/json_formatter_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/level_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/logger_bench_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/logger_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/logrus.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/logrus_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/pkg/testutils/testutils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/terminal_check_appengine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/terminal_check_bsd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/terminal_check_no_terminal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/terminal_check_notappengine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/terminal_check_solaris.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/terminal_check_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/terminal_check_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/text_formatter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/text_formatter_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/travis/cross_build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/travis/install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/sirupsen/logrus/writer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/tools/email.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/tools/pager.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/tools/secret.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/tools/token.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/tools/token_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/tools/tools.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/tran.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils/base64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils/func.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils/random.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils/wxbizdatacrypt_edit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/chatservice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/const.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/handle/event.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/handle/g.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/handle/message.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/handle/replyHandle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/handle/replyInterface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/signature.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/svr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/weixin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/gongzhonghao/weixins.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/model/msgtemplate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/model/pay.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/model/replymessage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/pay/pay.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/xiaochengxu/const.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/xiaochengxu/model/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/xiaochengxu/model/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/xiaochengxu/weixin.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/weixin/xiaochengxu/weixins.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://D:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/common/conf/conf.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mKADYMWxWpaic5GrNwbzYDlpH8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "E:/mywork/GOPATH/src/frame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="frame" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/hqbobo/frame" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="frame" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/hqbobo/frame" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
